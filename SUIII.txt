@@ -1,1 +1,10 @@
-j lekha
+git config --list
+git config --global user.name "username"
+git config --global user.email "email"
+git init
+
+
+git add.  //save any changes made to the file in the repository
+git commit -m "(comment you want to write)"
+git remote add otigin (link of repository)
+git push -u origin (branch name [usually master])
